@@ -16,5 +16,7 @@ Last time you guys began by exploring the dungeon you found underneath the "Deat
 - Old Svalich Road (p. 33)
 - Will-o'-wisp (p. 33)
 	- Good place to rest
+        - Darrick can roll religion -> holy energy / sacred ground
+        - No need to keep watch 
 - 
-##### nEXT
+##### Next
