@@ -8,6 +8,10 @@ Last session you began in the dungeon of the Death House. After defeating the be
 The next morning, you awoke and began venturing down a road you could see through the dense misty fog that surrounded you. Through the mists you all saw shadowy figures along the trail that seemed to fade in and out of existence, some humanoid, others avian or even draconic in nature. You soon came upon a corpse holding a copper compass and a notched tree with an arrow pointing down a footpath. You followed the footpath to find another such tree, and another. After following the footpath through the dense fog, you emerged back on the road where you began, but the bodies you found earlier had vanished. After leaving the site and following the road, the mists parted and you caught a glimpse of a town in front of you, with mountains on either side and castle spire in the distance. And that's where we are now...
 
 ### Plan
+
+- Perception checks for what happened to Dalvan
+	- DC 12 short version
+	- DC 16 long version
 - Rewind a bit for encounters
 	- Roll encounters along the way
 	- At least 1 before town?
