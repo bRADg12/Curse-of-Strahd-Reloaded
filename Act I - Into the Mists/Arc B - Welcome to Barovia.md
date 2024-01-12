@@ -85,23 +85,21 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 
 The players emerge from the Svalich Woods one mile and twenty minutes after departing Dalvan's corpse. When they do, read:
 
-<div class="description">
-<p>The dark woods fall away, revealing a misted, gloomy valley dotted with thick clouds of fog. </p>
-<p>Rolling thunderclouds cast a gray pall over the land below, no sun visible in the cold, grey light. Evergreen trees climb the sides of the mountains that enclose the valley. To the north rises a stony mount with tufts of trees; to the south, a snow-capped peak with rugged slopes towers imperiously above the land below.</p>
-<p>The muddy road continues on ahead, passing through yellowed grasses and farmland until it reaches a small, humble settlement hunkered down in the earth. Alongside the road, a river flows as clear as a blue winter sky through the valley. </p>
-<p>Far above the village looms a dark, twisted castle, standing alone atop a pillar of sheer stone. For an instant, a distant spear of lightning crackles, illuminating the towering keep in harsh lights and shadows—and then a thick bank of fog rolls in, concealing the village and castle from view.</p>
-</div>
+> [!read]
+> The dark woods fall away, revealing a misted, gloomy valley dotted with thick clouds of fog.
+> Rolling thunderclouds cast a gray pall over the land below, no sun visible in the cold, grey light. Evergreen trees climb the sides of the mountains that enclose the valley. To the north rises a stony mount with tufts of trees; to the south, a snow-capped peak with rugged slopes towers imperiously above the land below.
+> The muddy road continues on ahead, passing through yellowed grasses and farmland until it reaches a small, humble settlement hunkered down in the earth. Alongside the road, a river flows as clear as a blue winter sky through the valley. 
+> Far above the village looms a dark, twisted castle, standing alone atop a pillar of sheer stone. For an instant, a distant spear of lightning crackles, illuminating the towering keep in harsh lights and shadows—and then a thick bank of fog rolls in, concealing the village and castle from view.
 
 The journey from here to the outskirts of the village is two miles long and takes forty minutes.
 # B5. The Village of Barovia
 ## B5a. The Raven’s Guidance
 This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
 
-<div class="description">
-<p>As dusk begins to fall, plunging the overcast skies into a dull, darkened gloom, the outskirts of the village come into clearer view. A wide, dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, web cobblestones.</p>
-<p>Remnants of wooden barricades stand haphazardly along the streets. Some appear to be partially dismantled, with planks, logs, and simple tools piled nearby. The structures around them bear scorch marks and gashes, and several buildings show partially collapsed roofs or walls, allowing the cold, creeping fog to drift silently inside.</p>
-<p>The tall shapes of village dwellings stand above the rest, looming out of the dense fog that clings to the earth. Though flickers of silhouettes, illuminated by candlelight, occasionally drift across the dark windows above, not a sound cuts the silence save for the quiet flapping of wings.</p>
-</div>
+> [!read]+ 
+> As dusk begins to fall, plunging the overcast skies into a dull, darkened gloom, the outskirts of the village come into clearer view. A wide, dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, web cobblestones.
+> Remnants of wooden barricades stand haphazardly along the streets. Some appear to be partially dismantled, with planks, logs, and simple tools piled nearby. The structures around them bear scorch marks and gashes, and several buildings show partially collapsed roofs or walls, allowing the cold, creeping fog to drift silently inside.
+> The tall shapes of village dwellings stand above the rest, looming out of the dense fog that clings to the earth. Though flickers of silhouettes, illuminated by candlelight, occasionally drift across the dark windows above, not a sound cuts the silence save for the quiet flapping of wings.
 
 The flapping is made by a raven with blue-tipped wings, which perches atop one of the houses flanking the street. This raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 
@@ -122,19 +120,22 @@ The players do not encounter Morgantha, the **night hag** peddler, while explori
 >   
 >  Residents of Vallaki and Krezk know only that a rebellion occurred and failed, and that Strahd laid waste to the village of Barovia in his counterstroke. Most blame the villagers of Barovia for reawakening Strahd, whose emergence has plunged the valley once more into darkness.
 
-## B5b. The Blood on the Vine Tavern
+## B5b. The Blood of the Vine Tavern
 <span class="citation"><em>This scene takes place in Chapter 3: Area E2.</em></span>
 
 This area is largely as described in <span class="citation">Blood of the Vine Tavern (p. 43)</span>. However, insert the following at the beginning of this area’s description:
 
-<div class="description">
-<p>An old, chipped stone statue stands at the center of this town square, depicting a man wearing leather armor and holding a sword.</p>
-</div> 
+> [!read]+
+>An old, chipped stone statue stands at the center of this town square, depicting a man wearing leather armor and holding a sword. A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood of the Vine Tavern.
+
 
 The statue bears a weather-worn plaque at its base. It reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C.” (“B.C.” stands for “Barovian Calendar.”) 
 ![[Ismark the Great.png]]
 ### Entering the Tavern
 Instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. Alenka, Mirabel, and Sorvia are merely patrons, visiting from Tser Pool to drink and gather news. 
+
+>[!quote] ** After entering **
+>You walk in to find a modest tavern, complete with a bar along one wall, a large hearth with fire on the other. Tables with benches and chairs fill the rest of the stone floor. You see there are few people sitting around in here, drinking and conversing quietly. You catch 3 women who are wearing much more color than what seems to be the norm eyeing you from across the room, they turn back to their drinks after a moment. A large man, in a apron greats you from across the bar... Welcome (Old Guppy Voice?)
 
 When the players enter, these Vistani eye them with brief interest, but soon return to their drinks, departing the tavern soon after. (Alenka and Mirabel return to Tser Pool. Sorvia, a spy for Strahd, travels to Castle Ravenloft to report that new outsiders have entered Barovia.)
 
@@ -162,13 +163,13 @@ As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, a
 As the players drink, [[Non-Player Characters#Ismark Kolyanovich]] can share the the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard," and he doesn't suggest that the Vistani serve Strahd.
 
 Ismark can also share the following information:
-
 * The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Castle Ravenloft until recently.
 * Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
 * The village of Barovia was recently decimated by a siege from Strahd's undead forces. While the undead were dispatched, the village suffered heavily, and many Barovians fled to Vallaki, a fortified town to the west. Many are still missing, and Ismark has had to dispatch several search parties across the nearby woods in search of survivors.
 * All Barovians call Strahd “the Devil,” fearing that speaking his name gives him power and draws his attention. (This is a myth.) Ismark is unsure whether he believes this, but warns the players that Strahd’s spies are thought to be always watching— bats, wolves, and even human servants, including some among the Vistani. 
 * St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Ismark hopes to bring his sister, Ireena there, but is currently unable to due to his duties as his father's successor. 
 
+![[Ismark line about Ireena.webm]]
 If the players ask why Ismark hopes to bring Ireena to St. Andral's Church, he first swears them to secrecy. He then shares, in a hushed voice, that a vampire from Castle Ravenloft has haunted the grounds around their home in recent days. "I think the creature caught sight of her during the siege," he says, quietly. "I didn't want to panic the village, but I'm concerned that Barovia is no longer safe for her." (Ismark admits that the vampire is Strahd if confronted, but otherwise makes no mention of the vampire's identity.)
 
 If the players ask about the statue outside the tavern, Ismark can share the following information:
@@ -188,9 +189,10 @@ If the players indicate an interest in traveling to Vallaki, he asks if they wou
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
-<div class="description">
-<p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
-</div>
+
+> [!read]
+>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."
+
 
 The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
 
@@ -209,16 +211,17 @@ When he's regained his composure, Bildrath warns the players that the village is
 ### Mary's Request
 As the players' conversation with [[Non-Player Characters#Ismark Kolyanovich|Ismark]] and Bildrath wind to a close, read:
 
-<div class="description">
-<p>The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.</p>
-<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night. I think she's gone to Vallaki—alone."</p>
-</div>
 
-The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party as soon as the last one returns. "If she doesn't make it to Vallaki, we'll find her—and bring her home safely."
+> [!read]
+> The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.
+> Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night. I think she's gone to Vallaki—alone."
 
-As he does, Bildrath snarls and spits, "More empty promises, Kolyanovich?" He turns to the players, glowering. "Have you lot ever seen something so cruel?"
-
-After the players have had a chance to speak, Bildrath insists, "No one can survive alone on those roads. The girl's gone, Mary. I'm sorry." Mary then bursts into tears.
+> [!read]
+> The tavern immediately falls silent, and Ismark's eyes crease with worry. "I'm so sorry Mary, I will organize a search party as soon as the last one sent out returns. If she doesn't make it to Vallaki, we'll find her—and bring her home safely."
+> 
+> As he does, Bildrath snarls and spits, "More empty promises, Kolyanovich?" He turns to you all, glowering. "Have you lot ever seen something so cruel?"
+> 
+> After the players have had a chance to speak, Bildrath insists, "No one can survive alone on those roads. The girl's gone, Mary. I'm sorry." Mary then bursts into tears.
 
 Unless the players intervene, the following sequence then unfolds:
 
@@ -274,24 +277,27 @@ The entire conversation takes no more than five minutes. If the players do not c
 
 The players can eavesdrop on this conversation with a successful DC 13 Dexterity (Stealth) check or a successful DC 15 Wisdom (Perception) check. Read:
 
-<div class="description">
-<p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
-<p>Ireena's voice, sharp with indignation, pierces the silence. "You had no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
-<p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil still has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
-<p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
-<p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village last night. Alone."</p>
-<p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
-<p>"Her mother thinks she went to Vallaki," Ismark murmurs. "I don't know if she went for help, or to be away from the village—but the people here aren't the only ones who need your help."</p>
-<p>There's a long, suffering silence. Then—</p>
-<p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
-<p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
-<p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
-<p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
-</div>
+> [!read]
+> The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.
+> Ireena's voice, sharp with indignation, pierces the silence. "You had no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"
+> <p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil still has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
+> <p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
+> <p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village last night. Alone."</p>
+> <p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
+> <p>"Her mother thinks she went to Vallaki," Ismark murmurs. "I don't know if she went for help, or to be away from the village—but the people here aren't the only ones who need your help."</p>
+> <p>There's a long, suffering silence. Then—</p>
+> <p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
+> <p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
+> <p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
+> <p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."
 
 Ismark and Ireena emerge a few moments later. A player with a passive Wisdom (Insight) score of 12 or more notices that both have blotchy, red eyes, as if from crying.
 
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] then asks the players if they will assist him and Ireena in transporting their father’s remains to the local church shortly before daybreak the following morning, so that he can be buried at dawn, as the faith of the Morninglord requires, before they depart. (Ireena will not willingly leave Barovia before this is done.) If they agree, Ireena and Ismark are both vocally grateful.
+
+
+BREAK
+
 ### Settling In
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] soon departs to gather a search party to locate Gertruda—one that he clearly fears will be in vain. As he does, [[Non-Player Characters#Ireena Kolyana|Ireena]] offers to help the players get settled in, setting them up in the mansion's two guest bedrooms and providing them with basic supplies.
 

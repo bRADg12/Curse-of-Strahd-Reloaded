@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c5ec6d95925d02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendices/Non-Player Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e939eb14e158220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "2c5bdddf03cdf340",
@@ -85,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 4.md",
-                "collapseAll": false,
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 4.md"
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md"
               }
             }
           },
@@ -149,11 +173,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +196,14 @@
   },
   "active": "ac5a22772806b1a8",
   "lastOpenFiles": [
+    "Sessions/Session 5.md",
+    "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Appendices/Non-Player Characters.md",
+    "Act I - Into the Mists/Arc A - Escape From Death House.md",
+    "Ismark line about Ireena.webm",
+    "Recording 20240104203914.webm",
+    "Recording 20240104203851.webm",
+    "Act I - Into the Mists/Arc C - Into the Valley.md",
     "Sessions/Session 4.md",
     "Sessions"
   ]
