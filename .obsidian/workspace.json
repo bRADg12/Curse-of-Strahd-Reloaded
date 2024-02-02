@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-                "mode": "preview",
+                "file": "Sessions/Session 7.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "file": "Sessions/Session 7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "file": "Sessions/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md"
+                "file": "Sessions/Session 7.md"
               }
             }
           },
@@ -196,14 +196,23 @@
   },
   "active": "ac5a22772806b1a8",
   "lastOpenFiles": [
-    "Sessions/Session 5.md",
+    "Sessions/Session 6.md",
+    "Sessions/Session 7.md",
     "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Appendices/Non-Player Characters.md",
+    "Sessions/Session 5.md",
+    "Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Act II - The Shadowed Town/Arc D - The Tome of Strahd.md",
+    "Appendices/Amber Shards.md",
+    "Act II - The Shadowed Town/Arc F - The Missing Vistana.md",
+    "Act II - The Shadowed Town/Arc E - St. Andral's Feast.md",
+    "Act II - The Shadowed Town/Act II Summary.md",
     "Act I - Into the Mists/Arc A - Escape From Death House.md",
+    "Act I - Into the Mists/Act I Summary.md",
+    "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
     "Ismark line about Ireena.webm",
     "Recording 20240104203914.webm",
     "Recording 20240104203851.webm",
-    "Act I - Into the Mists/Arc C - Into the Valley.md",
     "Sessions/Session 4.md",
     "Sessions"
   ]

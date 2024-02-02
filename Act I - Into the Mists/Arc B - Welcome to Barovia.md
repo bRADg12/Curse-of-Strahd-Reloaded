@@ -44,7 +44,7 @@ This scene begins as described in <span class="citation">Svalich Woods (p. 34)</
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
-Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
+Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, whicsh bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
 
 > [!lore]+ **What Happened to Dalvan?**
 >
@@ -289,7 +289,8 @@ The players can eavesdrop on this conversation with a successful DC 13 Dexterity
 > <p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
 > <p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
 > <p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
-> <p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."
+> The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."
+
 
 Ismark and Ireena emerge a few moments later. A player with a passive Wisdom (Insight) score of 12 or more notices that both have blotchy, red eyes, as if from crying.
 
@@ -325,12 +326,12 @@ Over dinner, Ismark and Ireena ask the players about their interests and lives o
 
 When the players retire to their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
 
-<div class="description">
-<p>In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.</p>
-<p>Their bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn—ravenous creatures with a vampire's hunger for blood.</p>
-<p>These creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.</p>
-<p>It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.</p>
-</div>
+
+> [!read]
+> In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.
+> Their bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn—ravenous creatures with a vampire's hunger for blood.
+> These creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.
+> It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.
 
 Ismark and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
 ### Night at the Mansion
@@ -340,25 +341,28 @@ In the dream, the players find themselves within <span class="citation">Madam Ev
 
 [[Non-Player Characters#Madam Eva|Madam Eva]] greets them and delivers the following message, pausing after every paragraph to allow the players to interject:
 
-<div class="description">
-<p>"Welcome, weary travelers," she says, "to my humble tent. You may call me Madam Eva. I have been expecting you. </p>
-<p>"The winds of fate have brought you to this land, but do not be fooled—they are not winds of change, but winds of doom. I can see a shroud of darkness descending upon you. The lord of this land knows that you have trespassed into his domain, and he has set you in his sights. He is a creature of eternal hunger, and he will not rest until he has claimed your souls. </p>
-<p>"But there is yet hope. I have been blessed with the gift of foresight, and I can see the twisting paths that lie ahead. Seek me, in my tent at Tser Pool, so that I may read the cards for you and decipher the strands of fate. Together, we may yet escape this darkness. </p>
-<p>"But be warned: Time is running out, and the shadows are growing longer. Will you find me at Tser Pool?"</p>
-</div>
+> [!read]
+> "Welcome, weary travelers," she says, "to my humble tent. You may call me Madam Eva. I have been expecting you.
+> "The winds of fate have brought you to this land, but do not be fooled—they are not winds of change, but winds of doom. I can see a shroud of darkness descending upon you. The lord of this land knows that you have trespassed into his domain, and he has set you in his sights. He is a creature of eternal hunger, and he will not rest until he has claimed your souls.
+>"But there is yet hope. I have been blessed with the gift of foresight, and I can see the twisting paths that lie ahead. Seek me, in my tent at Tser Pool, so that I may read the cards for you and decipher the strands of fate. Together, we may yet escape this darkness.
+>"Your fates are more than your own. My vision is obscured, but I can see that your futures are intertwined with the very destiny of the land itself. In conquering this shadow, you may yet find salvation for others as well—and, in failure, deliver damnation instead."
+>The path to my tent begins at a place of death.
+>"But be warned: Time is running out, and the shadows are growing longer. Will you find me at Tser Pool?"
 
-If the players appear suspicious of Madam Eva's motives, she says, "Your fates are more than your own. My vision is obscured, but I can see that your futures are intertwined with the very destiny of the land itself. In conquering this shadow, you may yet find salvation for others as well—and, in failure, deliver damnation instead."
+If the players ask for directions to Tser Pool, Madam Eva says only, "I am not far. Travel west. "
 
-If the players ask for directions to Tser Pool, Madam Eva says only, "I am not far. Travel west. The path to my tent begins at a place of death."
-
-Soon after Madam Eva delivers her warning, the "light" in the tent visibly dims, as though a shroud of darkened mist has descended upon it. In response, Madam Eva stirs and says, "He has sensed me. He cannot know of our meeting. Fly, travelers! I shall await you at Tser Pool!" 
+Soon after Madam Eva delivers her warning, the "light" in the tent visibly dims, as though a shroud of darkened mist has descended upon it. In response, Madam Eva stirs and says, "He has sensed me. He cannot know of our meeting. Fly, travelers! I shall await you at Tser Pool! Fly you fools!" 
 
 The players then violently awaken, hearts beating fast and covered in sweat. Outside, the pale, ethereal light of the March of the Dead—as described in <span class="citation">March of the Dead (p. 48)</span> and just now beginning the march to Castle Ravenloft—is visible from the Old Svalich Road. The players can also see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
+
 
 > [!lore] **Who Knows of Madam Eva?**
 > All Barovians know that the Vistani have a semi-permanent camp at Tser Pool. Only some, however—as well as most residents of the village of Barovia—know that the camp is led by the crone Madam Eva, who the Vistani claim to be a powerful fortuneteller and seer. Although few Barovians hold Madam Eva in high regard, some have made the journey to Tser Pool in the past, seeking her wisdom in matters of love, sickness, or death. 
 ### Waking Up
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] rouses the players shortly before dawn, gathering them to deliver the burgomaster’s remains to Barovia’s church. Ireena, already dressed and waiting in the foyer, greets them warmly as they descend the stairs.
+
+>[!read]
+> An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats -- all these and more march forth from the graveyard, their numbers growing by the second 
 
 If the players ask Ismark or Ireena about the March of the Dead, they share that the ghosts began appearing shortly after the failed revolt, when Strahd presumably first awoke. Until that time, the villagers had thought the so-called “March of the Dead” to be a myth from older times. If asked, Ismark awkwardly explains that the March is said to be a parade of outsiders that had become trapped in Barovia and sought, unsuccessfully, to slay the vampire Strahd.
 
@@ -369,12 +373,10 @@ When the players are ready to depart, Ismark and Ireena ask them to assist in ca
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
 When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door, calling for Father Donavich, read the following:
-
-<div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the moonlight. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. </p>
-<p>The young man fidgets with the hem of his tunic as your eyes fall upon him. "Not since two weeks ago," he mumbles.</p>
-</div>
+>[!read]
+As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."
+A hulking silhouette steps forward from the mist—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the moonlight. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size.
+The young man fidgets with the hem of his tunic as your eyes fall upon him. "Not since two weeks ago," he mumbles.
 
 The young man is Parriwimple, described further in <span class="citation">E1. Bildrath's Mercantile (p. 43)</span>. Despite the early hour, he’s out for a walk. (He hasn’t been able to sleep well since his parents died in the siege, though he’s grateful to his uncle, Bildrath, for taking him in.)
 
@@ -407,16 +409,13 @@ Parriwimple won’t accompany the players inside of the church, but wishes them 
 ### Inside the Church
 This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
 
-<div class="description">
-<p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
-<p>You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.</p>
-</div>
+>[!read]
+The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
+You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.
 
-Doru does not cry out to his father when the players enter the chapel. Instead, when the players first approach the chapel, Donavich’s prayers halt. Add the following line to the chapel’s description in place of Doru’s cry:
 
-<div class="description">
-<p>The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace.”</p>
-</div>
+>[!read]
+The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace.”
 
 > [!lore]+ **A Recent History of the Church**
 >
@@ -471,23 +470,21 @@ If the players agree, Donavich produces the key to the to the padlock in <span c
 ### Descent to the Undercroft
 The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
-<div class="description">
-<p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
-</div>
+>[!read]
+Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.
 
 Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
 
-<div class="description">
-<p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?”</p>
-</div>
+>[!read]
+A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?”
 
 Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
 
-<div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
-<p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
-<p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
-</div>
+>[!read]
+From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.
+His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.
+"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."
+
 
 > [!profile]+ **Profile: Doru**
 >
