@@ -617,7 +617,7 @@ When the players return to the burgomaster’s manor following the burial, [[Non
 * Ireena asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
 * If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
 * If the players haven't mentioned their intent to visit Tser Pool, Ismark notes that the Svalich Road can be dangerous, and advises the players to set a waypoint to rest and recuperate along the way. (Better to be cautious, he says, than to rush into a more taxing journey than necessary.) He suggests Tser Pool as a potential waypoint.
-* In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
+* In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, e specially given the reputation of the Vistani leader, Madam Eva.)
 
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 ## B5e. Lugdanna's Knoll
@@ -629,10 +629,9 @@ Because Strahd and his servants have only visited at night, Ismark isn't notably
 
 If the players visit the knoll, read:
 
-<div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
-</div>
+>[!read]
+As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.
+A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.
 
 The figure is Ireena, who has adorned her chestplate and rapier. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
 

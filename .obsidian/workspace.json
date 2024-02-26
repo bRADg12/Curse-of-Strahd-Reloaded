@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd6ad264d9e182f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +49,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Sessions/Session 7.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dde2e7fdcab44f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Enchanted Treefort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20cbaba7649fcf4d",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Zombie",
+                    "size": "Medium",
+                    "type": "undead",
+                    "subtype": "",
+                    "alignment": "neutral evil",
+                    "ac": 8,
+                    "hp": 22,
+                    "hit_dice": "3d8 + 8",
+                    "speed": "20 ft.",
+                    "stats": [
+                      13,
+                      6,
+                      16,
+                      3,
+                      6,
+                      5
+                    ],
+                    "saves": [
+                      {
+                        "wisdom": 0
+                      }
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "poisoned",
+                    "senses": "darkvision 60 ft., passive Perception 8",
+                    "languages": "understands all languages it spoke in life but can't speak",
+                    "cr": "1/4",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Undead Fortitude",
+                        "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Slam",
+                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
+                        "attack_bonus": 3,
+                        "damage_dice": "1d6",
+                        "damage_bonus": 1
+                      }
+                    ],
+                    "hidden": false,
+                    "friendly": false
+                  },
+                  5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "37807e3d9523bab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Bestiary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "Sessions/Session 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "Sessions/Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 7.md"
+                "file": "Sessions/Session 8.md"
               }
             }
           },
@@ -175,6 +274,20 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "c4eeb03c4ee18045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90878927c02a2764",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,20 +307,29 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ac5a22772806b1a8",
+  "active": "dbd6ad264d9e182f",
   "lastOpenFiles": [
-    "Sessions/Session 6.md",
-    "Sessions/Session 7.md",
-    "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-    "Appendices/Non-Player Characters.md",
-    "Sessions/Session 5.md",
     "Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Sessions/Session 8.md",
+    "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Sessions/Enchanted Treefort.md",
+    "Sessions/Session 7.md",
+    "Monsters/Bestiary.md",
+    "Untitled",
+    "Monsters/Plague Spreader Zombie.json",
+    "Monsters/Plague Spreader Zombie.txt",
+    "Monsters/New Text Document.txt",
+    "Monsters",
+    "New folder",
+    "Appendices/Non-Player Characters.md",
+    "Sessions/Session 6.md",
+    "Act I - Into the Mists/Arc A - Escape From Death House.md",
+    "Sessions/Session 5.md",
     "Act II - The Shadowed Town/Arc D - The Tome of Strahd.md",
     "Appendices/Amber Shards.md",
     "Act II - The Shadowed Town/Arc F - The Missing Vistana.md",
     "Act II - The Shadowed Town/Arc E - St. Andral's Feast.md",
     "Act II - The Shadowed Town/Act II Summary.md",
-    "Act I - Into the Mists/Arc A - Escape From Death House.md",
     "Act I - Into the Mists/Act I Summary.md",
     "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
     "Ismark line about Ireena.webm",

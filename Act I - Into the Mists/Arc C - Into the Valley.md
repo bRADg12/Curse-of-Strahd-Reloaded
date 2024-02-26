@@ -24,9 +24,10 @@ The journey from the village of Barovia to the River Ivlis Crossroads is three m
 ## C1a. The Barovian Scouts
 As the players travel, read:
 
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
-
+>[!read]
+>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.
+>
+It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.
 If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
 The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga. The two warily demand to know if the players are spies or servants of Strahd. If reassured, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
@@ -39,14 +40,15 @@ Shortly after the players resume their trek down the Old Svalich Road, a light d
 ## C1b. Van Richten’s Cache
 As the players continue down the road, read:
 
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
+>[!read]
+>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
-<div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. A sixth figure, bearing the remnants of tattered leather armor, stands just beside the tree, its white eyes staring dully into the canopy overhead. This figure’s flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the forest floor around it before dissipating into the air.</p>
-</div>
+>[!read]
+You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.
+You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. A sixth figure, bearing the remnants of tattered leather armor, stands just beside the tree, its white eyes staring dully into the canopy overhead. This figure’s flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the forest floor around it before dissipating into the air.
+
 
 The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a **zombie plague spreader** (*Van Richten’s Guide to Ravenloft*, p. 255) created by Strahd, and the former leader of the undead siege. (Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.)
 
@@ -63,7 +65,8 @@ If the players reach the oak tree, they can find Van Richten’s weapons cache w
 
 As the players approach this area, the drizzling rain stops. Read:
 
-<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
+>[!read]
+>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.
 
 The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
 
@@ -77,17 +80,20 @@ The players can see a driver sitting in the coach box: the **vampire spawn** Esc
 
 The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
-<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
-<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
+>[!read]
+>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.
+He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 
-<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
-<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
+>[!read]
+Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.
+The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. 
 
 Whether Ireena is with the party or not, add:
 
-<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
+>[!read]
+>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.
 
 > [!lore]+ **Strahd’s Foretelling**
 >
