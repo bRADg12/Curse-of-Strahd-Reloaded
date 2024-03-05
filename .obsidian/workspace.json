@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
+                "file": "Sessions/Session 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
+                "file": "Sessions/Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act I - Into the Mists/Arc C - Into the Valley.md"
+                "file": "Sessions/Session 8.md"
               }
             }
           },
@@ -306,13 +306,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dbd6ad264d9e182f",
+  "active": "d258594f7880e86d",
   "lastOpenFiles": [
-    "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Act I - Into the Mists/Arc C - Into the Valley.md",
     "Sessions/Session 8.md",
+    "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Sessions/Session 7.md",
     "Act III - The Broken Land/Act III Summary.md",
-    "Act I - Into the Mists/Arc C - Into the Valley.md",
     "Act II - The Shadowed Town/Act II Summary.md",
     "Act I - Into the Mists/Act I Summary.md",
     "Appendices/Non-Player Characters.md",

@@ -15,3 +15,9 @@ He greeted Ireena then turned his attention on you all, and that's where we are 
 		- Goatler Thumpsome I thought you'd be happier here. It seemed to me that the world out there no longer wanted you. 
 		- And the cousin Captain? Darrik Thumpsome. Military branch
 		- Morrigan Lyndel our little wanderluster, judging by your neck you look like you're going to fit in just fine.
+	- Questions
+		- Ismark
+		- Ireena
+- The Strix
+	- Muriel
+- Tser Pool
