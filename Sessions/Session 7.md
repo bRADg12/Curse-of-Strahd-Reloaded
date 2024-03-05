@@ -16,3 +16,6 @@ We began last session with you all around the Kolyanovich dinner table, after ga
 Questions to answer
 - How long has Strahd been around? Earliest record
 - Get Chat GPT to give me some enchanted treefort excerpts
+
+Things to Noodle on
+- Goatler + A in a heart

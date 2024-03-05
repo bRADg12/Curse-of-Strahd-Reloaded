@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 8.md",
-                "mode": "source",
+                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendices/Non-Player Characters.md",
+                "file": "Act III - The Broken Land/Act III Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Sessions/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d258594f7880e86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strahd von",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +200,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 8.md",
+                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 8.md",
+                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 8.md"
+                "file": "Act I - Into the Mists/Arc C - Into the Valley.md"
               }
             }
           },
@@ -274,20 +287,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "c4eeb03c4ee18045",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90878927c02a2764",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -309,11 +308,16 @@
   },
   "active": "dbd6ad264d9e182f",
   "lastOpenFiles": [
-    "Act I - Into the Mists/Arc C - Into the Valley.md",
-    "Sessions/Session 8.md",
     "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-    "Sessions/Enchanted Treefort.md",
+    "Sessions/Session 8.md",
     "Sessions/Session 7.md",
+    "Act III - The Broken Land/Act III Summary.md",
+    "Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Act II - The Shadowed Town/Act II Summary.md",
+    "Act I - Into the Mists/Act I Summary.md",
+    "Appendices/Non-Player Characters.md",
+    "Sessions/Enchanted Treefort.md",
+    "Act II - The Shadowed Town/Arc D - The Tome of Strahd.md",
     "Monsters/Bestiary.md",
     "Untitled",
     "Monsters/Plague Spreader Zombie.json",
@@ -321,16 +325,12 @@
     "Monsters/New Text Document.txt",
     "Monsters",
     "New folder",
-    "Appendices/Non-Player Characters.md",
     "Sessions/Session 6.md",
     "Act I - Into the Mists/Arc A - Escape From Death House.md",
     "Sessions/Session 5.md",
-    "Act II - The Shadowed Town/Arc D - The Tome of Strahd.md",
     "Appendices/Amber Shards.md",
     "Act II - The Shadowed Town/Arc F - The Missing Vistana.md",
     "Act II - The Shadowed Town/Arc E - St. Andral's Feast.md",
-    "Act II - The Shadowed Town/Act II Summary.md",
-    "Act I - Into the Mists/Act I Summary.md",
     "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
     "Ismark line about Ireena.webm",
     "Recording 20240104203914.webm",
