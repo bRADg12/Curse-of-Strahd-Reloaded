@@ -100,30 +100,30 @@
   "state": {
     "creatures": [
       {
-        "name": "Zombie Plague Spreader",
-        "initiative": 0,
+        "name": "Manticore",
+        "initiative": 7,
         "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": null,
-        "cr": "4",
-        "ac": [
-          10
-        ],
-        "currentAC": [
-          10
-        ],
-        "id": "ID_6aca492a9ab9",
-        "currentHP": null,
+        "modifier": 3,
+        "hp": 68,
+        "currentMaxHP": 68,
+        "cr": "3",
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_aa3b2b39c8b8",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
+        "active": false,
         "hidden": false,
-        "friendly": false
+        "friendly": false,
+        "hit_dice": "8d10 + 24"
       }
     ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false

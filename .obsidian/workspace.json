@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act I - Into the Mists/Arc C - Into the Valley.md",
-                "mode": "preview",
+                "file": "Appendices/Non-Player Characters.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,56 +87,68 @@
               "state": [
                 [
                   {
-                    "name": "Zombie",
-                    "size": "Medium",
-                    "type": "undead",
+                    "name": "Manticore",
+                    "size": "Large",
+                    "type": "monstrosity",
                     "subtype": "",
-                    "alignment": "neutral evil",
-                    "ac": 8,
-                    "hp": 22,
-                    "hit_dice": "3d8 + 8",
-                    "speed": "20 ft.",
+                    "alignment": "lawful evil",
+                    "ac": 14,
+                    "hp": 68,
+                    "hit_dice": "8d10 + 24",
+                    "speed": "30 ft., fly 50 ft.",
                     "stats": [
-                      13,
-                      6,
+                      17,
                       16,
-                      3,
-                      6,
-                      5
-                    ],
-                    "saves": [
-                      {
-                        "wisdom": 0
-                      }
+                      17,
+                      7,
+                      12,
+                      8
                     ],
                     "damage_vulnerabilities": "",
                     "damage_resistances": "",
                     "damage_immunities": "",
-                    "condition_immunities": "poisoned",
-                    "senses": "darkvision 60 ft., passive Perception 8",
-                    "languages": "understands all languages it spoke in life but can't speak",
-                    "cr": "1/4",
+                    "condition_immunities": "",
+                    "senses": "darkvision 60 ft., passive Perception 11",
+                    "languages": "",
+                    "cr": "3",
                     "bestiary": true,
                     "traits": [
                       {
-                        "name": "Undead Fortitude",
-                        "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+                        "name": "Tail Spike Regrowth",
+                        "desc": "The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.",
                         "attack_bonus": 0
                       }
                     ],
                     "actions": [
                       {
-                        "name": "Slam",
-                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
-                        "attack_bonus": 3,
+                        "name": "Multiattack",
+                        "desc": "The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Bite",
+                        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+                        "attack_bonus": 5,
+                        "damage_dice": "1d8",
+                        "damage_bonus": 3
+                      },
+                      {
+                        "name": "Claw",
+                        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+                        "attack_bonus": 5,
                         "damage_dice": "1d6",
-                        "damage_bonus": 1
+                        "damage_bonus": 3
+                      },
+                      {
+                        "name": "Tail Spike",
+                        "desc": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+                        "attack_bonus": 5,
+                        "damage_dice": "1d8",
+                        "damage_bonus": 3
                       }
-                    ],
-                    "hidden": false,
-                    "friendly": false
+                    ]
                   },
-                  5
+                  1
                 ]
               ]
             }
@@ -149,6 +161,18 @@
               "state": {
                 "file": "Monsters/Bestiary.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f79e424bbedf975f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -183,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strahd von",
+                "query": "eyes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +310,21 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "b8ece8fb3a080493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5879c97e71159a24",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,17 +346,17 @@
   },
   "active": "d258594f7880e86d",
   "lastOpenFiles": [
+    "Appendices/Non-Player Characters.md",
     "Act I - Into the Mists/Arc C - Into the Valley.md",
-    "Sessions/Session 8.md",
     "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+    "Sessions/Session 8.md",
     "Sessions/Session 7.md",
     "Act III - The Broken Land/Act III Summary.md",
+    "Sessions/Enchanted Treefort.md",
+    "Monsters/Bestiary.md",
     "Act II - The Shadowed Town/Act II Summary.md",
     "Act I - Into the Mists/Act I Summary.md",
-    "Appendices/Non-Player Characters.md",
-    "Sessions/Enchanted Treefort.md",
     "Act II - The Shadowed Town/Arc D - The Tome of Strahd.md",
-    "Monsters/Bestiary.md",
     "Untitled",
     "Monsters/Plague Spreader Zombie.json",
     "Monsters/Plague Spreader Zombie.txt",
